@@ -1,0 +1,11 @@
+# Local environments and editor files
+.DS_Store
+.idea/
+.vscode/
+.venv/
+__pycache__/
+*.py[cod]
+# Source datasets and generated results
+*.csv
+*.xlsx
+results/

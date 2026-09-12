@@ -1,0 +1,7 @@
+# Data analysis, statistical modelling and visualisation
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
